@@ -37,7 +37,7 @@ sections:
           your oyster. Go wild.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /
             style: link
   - section_id: text-img
     type: section_content
