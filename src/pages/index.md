@@ -63,7 +63,7 @@ sections:
       text text text text.
     actions:
       - label: More buttons
-        url: /docs/getting-started/installation
+        url: /
         style: primary
   - section_id: cta
     type: section_cta
