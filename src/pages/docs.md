@@ -22,7 +22,7 @@ sections:
         title_url: /game-2
         image_alt: lorem-ipsum
         content: |
-          ##### Title
+          #### Title
 
           You know the drill by now, test overview details blah blah
 
