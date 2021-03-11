@@ -83,7 +83,8 @@
                 "icon_class": "github",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "Made by "
     },
     "title": "Stackbit Libris Theme",
     "domain": "https://cog-tests-a5ea1.netlify.app"
