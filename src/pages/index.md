@@ -24,9 +24,9 @@ sections:
             url: /docs
             style: link
       - title: Tests
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          A summary of what the page would contain. Say, an intro to the
+          cognitive tests or whatever you want.
         actions:
           - label: View Posts
             url: /blog
