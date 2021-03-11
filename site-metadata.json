@@ -31,7 +31,7 @@
                     },
                     {
                         "label": "Game 2",
-                        "url": "#",
+                        "url": "/game-2",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
