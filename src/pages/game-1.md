@@ -1,7 +1,7 @@
 ---
 title: Game 1
 sections:
-  - title: lorem-ipsum
+  - title: Game 1
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
