@@ -57,7 +57,7 @@
             },
             {
                 "label": "Get Started",
-                "url": "https://github.com/",
+                "url": "/",
                 "style": "primary",
                 "has_subnav": false
             }
