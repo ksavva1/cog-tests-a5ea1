@@ -1,5 +1,5 @@
 ---
-title: Game 1
+title: Brain Mapping
 excerpt: >-
   Libris is a Unibit theme created for project documentations. You can use it
   for your project.
