@@ -9,9 +9,8 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+## Title
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Info about all of the games that we will have. This is the overview page.
 
-- Lorem ipsum
-- dolor sit amet
+> These games are really great - Katie
