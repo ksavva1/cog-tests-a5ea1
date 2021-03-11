@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Home Title
     type: section_hero
     title: Cognitive Tests
     image: images/brain-tumor-treatment-radiology-web.jpeg
