@@ -1,6 +1,6 @@
 ---
 title: Test Page
-subtitle: lorem-ipsum
+subtitle: This is a page
 seo:
   title: ''
   description: ''
