@@ -62,7 +62,7 @@ sections:
       best. Cerebellum, Covid, CCAS, countless slots for countless words. Text
       text text text text.
     actions:
-      - label: Get Started
+      - label: More buttons
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
