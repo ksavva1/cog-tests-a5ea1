@@ -83,5 +83,6 @@
             }
         ]
     },
-    "title": "Stackbit Libris Theme"
+    "title": "Stackbit Libris Theme",
+    "domain": "https://cog-tests-a5ea1.netlify.app"
 }
