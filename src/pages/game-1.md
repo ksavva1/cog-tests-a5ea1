@@ -11,17 +11,8 @@ sections:
     type: section_content
   - title: Example block
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Sample block which highlights an area of text
     actions: []
     type: section_hero
 seo:
