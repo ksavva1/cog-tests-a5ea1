@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Tests
 subtitle: lorem-ipsum
 seo:
   title: ''
