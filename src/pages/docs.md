@@ -19,7 +19,7 @@ sections:
         actions: []
         type: grid_item
       - title: Game 2
-        title_url: lorem-ipsum
+        title_url: /game-2
         image_alt: lorem-ipsum
         content: |
           ## Title
