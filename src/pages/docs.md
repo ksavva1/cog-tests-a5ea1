@@ -6,7 +6,7 @@ sections:
     subtitle: Subtitle
     col_number: three
     type: section_docs
-  - title: CTA section
+  - title: Blue
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
