@@ -44,10 +44,9 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Blah blah look how cool and clever we are. Wow, this is all really
+      fascinating information. Delirium you say? How intriguing.
     actions:
       - label: View Demo
         url: /docs/getting-started
