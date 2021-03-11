@@ -8,7 +8,7 @@ sections:
     type: section_docs
   - title: Blue
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Subtitle
     actions: []
     type: section_cta
 seo:
