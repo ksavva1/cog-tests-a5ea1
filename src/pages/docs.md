@@ -4,7 +4,7 @@ sections:
   - title: Games Overview
     section_id: Intro
     subtitle: Subtitle
-    col_number: two
+    col_number: three
     type: section_docs
   - title: CTA section
     section_id: lorem-ipsum
