@@ -52,7 +52,7 @@ sections:
         url: /
         style: primary
       - label: Another button!
-        url: /docs/getting-started
+        url: /
         style: secondary
   - section_id: text-no-img
     type: section_content
