@@ -40,7 +40,7 @@
                     },
                     {
                         "label": "Game 3",
-                        "url": "#",
+                        "url": "/game-3",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
